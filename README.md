@@ -13,6 +13,10 @@ Visualized in
 
 * Microsoft Power BI
 
+![Dashboard Filters](./images/filters.png "Dashboard Filters")
+![Department Dashboard](./images/dashboard.png "Department Dashboard")
+![Department Drill-through](./images/drill-through.png "Department Drill-through")
+
 ## Data Information
 
 The dataset contains payroll information for all Los Angeles City Employees including the City's three proprietary departments: Water and Power, Airports and Harbor. Sourced from [City Employee Payroll](https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-Current-/g9h8-fvhu/about_data) when last updated on January 27, 2025.
